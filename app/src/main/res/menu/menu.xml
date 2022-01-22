@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/restart"
+        android:title="@string/restart"
+        android:icon="@drawable/ic_restart"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/record"
+        android:title="@string/record"
+        android:icon="@drawable/ic_record"
+        app:showAsAction="always"/>
+    <item
+        android:title="@string/level1"
+        android:enabled="false"
+        app:showAsAction="never" />
+    <item android:id="@+id/level1_1"
+        android:title="@string/level_1"
+        app:showAsAction="never"/>
+    <item android:id="@+id/level1_2"
+        android:title="@string/level_2"
+        app:showAsAction="never"/>
+    <item android:id="@+id/level1_3"
+        android:title="@string/level_3"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/level2"
+        android:enabled="false"
+        app:showAsAction="never" />
+    <item android:id="@+id/level2_1"
+        android:title="@string/level_1"
+        app:showAsAction="never"/>
+    <item android:id="@+id/level2_2"
+        android:title="@string/level_2"
+        app:showAsAction="never"/>
+    <item android:id="@+id/level2_3"
+        android:title="@string/level_3"
+        app:showAsAction="never"/>
+    <item android:id="@+id/level2_4"
+        android:title="@string/level_4"
+        app:showAsAction="never"/>
+</menu>

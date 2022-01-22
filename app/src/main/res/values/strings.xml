@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">关灯小游戏</string>
+    <string name="submit">完成</string>
+    <string name="restart">重新开始</string>
+    <string name="record">历史记录</string>
+    <string name="level1">Level3</string>
+    <string name="level2">Level4</string>
+    <string name="level_1">关卡1</string>
+    <string name="level_2">关卡2</string>
+    <string name="level_3">关卡3</string>
+    <string name="level_4">关卡4</string>
+    <string name="record_text">历史最佳</string>
+    <string name="alert_title">关卡等级以及最高成绩</string>
+    <string name="record1">第一关</string>
+    <string name="record2">第二关</string>
+    <string name="record3">第三关</string>
+    <string name="record4">第四关</string>
+</resources>
